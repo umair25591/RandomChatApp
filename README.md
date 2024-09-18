@@ -1,7 +1,8 @@
 🌍 Random Chat - Connect, Chat, Play, & Call with Strangers!
 Welcome to Random Chat, where the world is at your fingertips! Meet new people from across the globe in real-time, have fun, and make memories with total strangers. Whether you're looking for a casual chat, a friendly game, or a quick video call, Random Chat has it all.
 
-🚀 Features
+🚀 Features :
+
 💬 Real-time Chat (Powered by WebSockets)
 Say goodbye to delays! Experience seamless, real-time messaging with WebSockets. Whether you're texting someone across the street or across the world, your messages will arrive in an instant.
 
